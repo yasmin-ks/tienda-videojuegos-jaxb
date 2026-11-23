@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tienda nombre="GameZone Madrid">
+    <juegos>
+        <juego codigo="VJ-001">
+            <titulo plataforma="PS5">Elden Ring</titulo>
+            <estudio>
+                <pais>Japón</pais>
+                <nombre>FromSoftware</nombre>
+            </estudio>
+            <anio>2022</anio>
+            <precio>59.99</precio>
+            <stock>true</stock>
+        </juego>
+        <juego codigo="VJ-002">
+            <titulo plataforma="PC">Hollow Knight</titulo>
+            <estudio>
+                <pais>Australia</pais>
+                <nombre>Team Cherry</nombre>
+            </estudio>
+            <anio>2017</anio>
+            <precio>14.99</precio>
+            <stock>true</stock>
+        </juego>
+        <juego codigo="VJ-003">
+            <titulo plataforma="Switch">Hades</titulo>
+            <estudio>
+                <pais>Estados Unidos</pais>
+                <nombre>Supergiant Games</nombre>
+            </estudio>
+            <anio>2020</anio>
+            <precio>24.99</precio>
+            <stock>false</stock>
+        </juego>
+        <juego codigo="VJ-004">
+            <titulo plataforma="PS5">Bloodborne</titulo>
+            <estudio>
+                <pais>Japón</pais>
+                <nombre>FromSoftware</nombre>
+            </estudio>
+            <anio>2015</anio>
+            <precio>19.99</precio>
+            <stock>true</stock>
+        </juego>
+    </juegos>
+</tienda>
